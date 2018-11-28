@@ -1,5 +1,8 @@
 # 10.0.0, in progress
 
+## Added
+* The `github.com/stripe/veneur/trace` package has brand new and much more extensive [documentation](https://godoc.org/github.com/stripe/veneur/trace)! Thanks, [antifuchs](https://github.com/antifuchs)!
+
 # 9.0.0, 2018-11-08
 
 ## Bugfixes
